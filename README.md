@@ -1,0 +1,2 @@
+# GameDB-Pico
+Sega Pico
